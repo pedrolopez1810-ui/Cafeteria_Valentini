@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmregistrarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmregistrarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmregistrarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmregistrarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmbuscarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmbuscarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmconsultarinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmconsultarinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmregistrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmregistrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmactualizarinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmactualizarinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmactualizarinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmactualizarinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmregistrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmregistrarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmreporteventas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmreporteventas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmconsultarinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmconsultarinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmbuscarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmbuscarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|d:\\proyectos de programacion\\cafeteria_valentini\\cafeteria_valentini\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A930B3E-313B-4371-A69D-658905789E3D}|CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI.csproj|solutionrelative:cafeteria_valentini\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\Conexion.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\Conexion.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\Conexion.cs",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T16:47:00.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\Form1.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\Form1.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:20:57.556Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmRegistrarPedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmRegistrarPedido.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmRegistrarPedido.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmRegistrarPedido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmRegistrarPedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:32:44.084Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmRegistrarPedido.cs",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmRegistrarPedido.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmRegistrarPedido.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmRegistrarPedido.cs",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmRegistrarPedido.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAvwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:39:55.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReporteVentas.cs",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmReporteVentas.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmReporteVentas.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmReporteVentas.cs",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmReporteVentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:51:06.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmReporteVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmReporteVentas.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmReporteVentas.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmReporteVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmReporteVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:37:28.696Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmBuscarPedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmBuscarPedido.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmBuscarPedido.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmBuscarPedido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmBuscarPedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:34:46.963Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmRegistrarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmRegistrarProducto.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmRegistrarProducto.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmRegistrarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmRegistrarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:33:56.225Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmConsultarInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmConsultarInventario.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmConsultarInventario.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmConsultarInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmConsultarInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:36:47.865Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmRegistrarVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmRegistrarVenta.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmRegistrarVenta.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmRegistrarVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmRegistrarVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:36:04.147Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmActualizarInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmActualizarInventario.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmActualizarInventario.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmActualizarInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmActualizarInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:35:23.345Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmActualizarInventario.cs",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmActualizarInventario.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmActualizarInventario.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmActualizarInventario.cs",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmActualizarInventario.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:49:23.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\Form1.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\Form1.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\Form1.cs",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\Form1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAASwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:38:27.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\Form1.Designer.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\Form1.Designer.cs",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\Form1.Designer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAEwHgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T16:00:16.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmRegistrarVenta.cs",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmRegistrarVenta.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmRegistrarVenta.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmRegistrarVenta.cs",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmRegistrarVenta.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:49:56.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmReporteVentas.Designer.cs",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmReporteVentas.Designer.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmReporteVentas.Designer.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmReporteVentas.Designer.cs",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmReporteVentas.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIAwwI4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:56:02.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmConsultarInventario.cs",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmConsultarInventario.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmConsultarInventario.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmConsultarInventario.cs",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmConsultarInventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:50:52.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmBuscarPedido.cs",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmBuscarPedido.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmBuscarPedido.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmBuscarPedido.cs",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmBuscarPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:48:41.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmRegistrarProducto.cs",
+              "DocumentMoniker": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmRegistrarProducto.cs",
+              "RelativeDocumentMoniker": "CAFETERIA_VALENTINI\\frmRegistrarProducto.cs",
+              "ToolTip": "D:\\PROYECTOS DE PROGRAMACION\\CAFETERIA_VALENTINI\\CAFETERIA_VALENTINI\\frmRegistrarProducto.cs",
+              "RelativeToolTip": "CAFETERIA_VALENTINI\\frmRegistrarProducto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:41:06.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
