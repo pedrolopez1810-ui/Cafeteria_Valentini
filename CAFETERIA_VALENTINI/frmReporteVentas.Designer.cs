@@ -137,9 +137,9 @@
             this.lblIngresoTotalValor.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblIngresoTotalValor.Location = new System.Drawing.Point(524, 398);
             this.lblIngresoTotalValor.Name = "lblIngresoTotalValor";
-            this.lblIngresoTotalValor.Size = new System.Drawing.Size(57, 20);
+            this.lblIngresoTotalValor.Size = new System.Drawing.Size(13, 20);
             this.lblIngresoTotalValor.TabIndex = 31;
-            this.lblIngresoTotalValor.Text = "label5";
+            this.lblIngresoTotalValor.Text = "l";
             // 
             // frmReporteVentas
             // 

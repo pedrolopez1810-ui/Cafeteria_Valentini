@@ -132,7 +132,55 @@ namespace CAFETERIA_VALENTINI
             this.Close();
         }
 
+        private void btnBuscarCliente_Click(object sender, EventArgs e)
+        {
+            // Validar que se haya ingresado un DNI
+            if (string.IsNullOrWhiteSpace(txtDniCliente.Text))
+            {
+                MessageBox.Show("Por favor, ingrese un DNI para buscar.");
+                return;
+            }
 
+            // Tu cadena de conexión (recuerda cambiar "TU_SERVIDOR")
+            string cadenaConexion = "Server=PC-PEDROPE\\SQLEXPRESS;Database=CafeteriaValentini;Integrated Security=True;";
 
+            // Consulta SQL para buscar solo por el DNI ingresado
+            string query = "SELECT Nombre FROM Clientes WHERE DNI = @DNI";
+
+            using (SqlConnection conexion = new SqlConnection(cadenaConexion))
+            {
+                try
+                {
+                    conexion.Open();
+                    using (SqlCommand comando = new SqlCommand(query, conexion))
+                    {
+                        comando.Parameters.AddWithValue("@DNI", txtDniCliente.Text);
+
+                        // Ejecutamos el lector de datos
+                        using (SqlDataReader reader = comando.ExecuteReader())
+                        {
+                            if (reader.Read()) // Si Read() es true, significa que encontró un registro
+                            {
+                                // Jalamos el nombre y lo mostramos en el textbox
+                                txtNombreCliente.Text = reader["Nombre"].ToString();
+                            }
+                            else
+                            {
+                                // Si es false, no encontró el DNI
+                                MessageBox.Show("Cliente no encontrado. Se abrirá la ventana para registrarlo.");
+
+                                // Instanciamos y abrimos el formulario de registro
+                                frmRegistrarCliente frmRegistro = new frmRegistrarCliente();
+                                frmRegistro.ShowDialog(); // ShowDialog pausa este formulario hasta que cierres el de registro
+                            }
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error al buscar el cliente: " + ex.Message);
+                }
+            }
+        }
     }
 }

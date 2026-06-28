@@ -63,7 +63,5 @@ namespace CAFETERIA_VALENTINI
         {
             Application.Exit();
         }
-
-        
     }
 }
